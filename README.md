@@ -45,9 +45,6 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 ### Jenkins :construction_worker:
 * [Jenkins](pdf/Jenkins-Cheat-Sheet-converted.pdf): Jenkins is an open-source automation server that enables developers to reliably build, test, and deploy their software.
 
-### Continuous Integration and Continuous Delivery (CI/CD) :repeat:
-* [CI/CD Framework](pdf/cicd-framework_by_densify.pdf): CI/CD frameworks have made the practice of software development increasingly complex—and overwhelming.
-
 ### Kubernetes :ship:
 * [Kubernetes K8s Cheat-Sheet](pdf/Kubernetes-Cheat-Sheet.pdf)
 * [Kubectl](pdf/Kubernetes-Kubectl-CLI-Cheat-Sheet.pdf): Kubectl is a command-line interface for running commands against Kubernetes clusters.
