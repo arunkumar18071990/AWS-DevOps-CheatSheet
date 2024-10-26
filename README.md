@@ -17,27 +17,12 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 2. [Docker :whale:](#docker-whale)
 3. [Ansible :hammer_and_wrench:](#ansible-hammer_and_wrench)
 4. [Python :snake:](#python-snake)
-5. [Go (Golang) :racehorse:](#go-golang-racehorse)
-6. [Git :octocat:](#git-octocat)
-7. [Regular Expressions (Regex) :mag:](#regular-expressions-regex-mag)
-8. [PowerShell :electric_plug:](#powershell-electric_plug)
-9. [VIM :keyboard:](#vim-keyboard)
-10. [Jenkins :construction_worker:](#jenkins-construction_worker)
-11. [Continuous Integration and Continuous Delivery (CI/CD) :repeat:](#continuous-integration-and-continuous-delivery-cicd-repeat)
-12. [Kubernetes :ship:](#kubernetes-ship)
-13. [Linux :penguin:](#linux-penguin)
-14. [Redis :floppy_disk:](#redis-floppy_disk)
-15. [Slack :speech_balloon:](#slack-speech_balloon)
-16. [Puppet 🐕](#puppet-🐕)
-17. [Google Cloud Developer :cloud:](#google-cloud-developer-cloud)
-18. [AI, Neural Networks, Machine Learning, Deep Learning & Data Science :robot:](#ai-neural-networks-machine-learning-deep-learning-data-science-robot)
-19. [PostgreSQL :elephant:](#postgresql-elephant)
-20. [Ajax :arrows_counterclockwise:](#ajax-arrows_counterclockwise)
-21. [Amazon Web Services (AWS) :cloud_with_lightning_and_rain:](#amazon-web-services-aws-cloud_with_lightning_and_rain)
-22. [Infrastructure as Code (IaC) :building_construction:](#infrastructure-as-code-iac-building_construction)
-23. [System Design :gear:](#system-design-gear)
-24. [Cyber Security :lock:](#cyber-security-lock)
-
+5. [Jenkins :construction_worker:](#jenkins-construction_worker)
+6. [Continuous Integration and Continuous Delivery (CI/CD) :repeat:](#continuous-integration-and-continuous-delivery-cicd-repeat)
+7. [Kubernetes :ship:](#kubernetes-ship)
+8. [Linux :penguin:](#linux-penguin)
+9. [Amazon Web Services (AWS) :cloud_with_lightning_and_rain:](#amazon-web-services-aws-cloud_with_lightning_and_rain)
+10. [Infrastructure as Code (IaC) :building_construction:](#infrastructure-as-code-iac-building_construction)
 ---
 
 ### Nginx :whale:
@@ -51,13 +36,6 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 ### Ansible :hammer_and_wrench:
 * [Ansible](pdf/ansible.pdf): Ansible is the simplest way to automate apps and IT infrastructure.
 
-### Python :snake:
-* [Python 3 - The Basics](pdf/cheatsheet-python-grok.pdf)
-* [Python for Beginners](pdf/python_beginners.pdf)
-
-### Go (Golang) :racehorse:
-* [Go (Golang)](pdf/go_golang.pdf): Go, also known as Golang, is a statically typed, compiled programming language designed at Google.
-
 ### Git :octocat:
 * [Git by Atlassian](pdf/atlassian-git-cheatsheet.pdf)
 * [Git by GitHub](pdf/git_by_github.pdf)
@@ -68,11 +46,6 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 * [Regex](pdf/regex.pdf): Regular expressions are special text strings for describing search patterns.
 * [Regex for Python](pdf/python-regular-expression-regex.pdf)
 
-### PowerShell :electric_plug:
-* [PowerShell](pdf/Powershell.pdf): PowerShell is a task automation and configuration management framework from Microsoft.
-
-### VIM :keyboard:
-* [VIM](pdf/vim-cheat-sheet.pdf): VIM, aka `Vi IMproved`, is a highly configurable text editor for efficiently creating and changing any kind of text.
 
 ### Jenkins :construction_worker:
 * [Jenkins](pdf/Jenkins-Cheat-Sheet-converted.pdf): Jenkins is an open-source automation server that enables developers to reliably build, test, and deploy their software.
@@ -112,26 +85,8 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 * [Wireshark](pdf/wireshark.pdf): Wireshark is a free and open-source packet analyzer.
 * [Linux File Systems](pdf/LinuxFileSystems.gif): The Linux file system used to resemble an unorganized town where individuals constructed their houses wherever they pleased.
 
-### Redis :floppy_disk:
-* [Redis](pdf/redis.pdf): Redis is an in-memory data structure store used as a database, cache, and message broker.
-
-### Slack :speech_balloon:
-* [Slack](pdf/slack.pdf): Slack is a messaging tool for fast and easy communication within teams, organized by channels.
-
-### Puppet 🐕
-* [Puppet](pdf/puppet): Puppet lets you automate the enforcement, security, and delivery of your hybrid or cloud-native infrastructure.
-
-### Google Cloud Developer :cloud:
-* [Google Cloud Developer](pdf/GoogleCloudDeveloper.pdf): This cheat sheet covers building scalable and highly available applications using Google-recommended practices and tools that leverage fully managed services.
-
 ### AI, Neural Networks, Machine Learning, Deep Learning & Data Science :robot:
 * [AI & ML Cheat-Sheet](pdf/AI_ML.pdf): This section explores intelligence demonstrated by machines.
-
-### PostgreSQL :elephant:
-* [PostgreSQL](pdf/PostgreSQL-Cheat-Sheet.pdf): PostgreSQL is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.
-
-### Ajax :arrows_counterclockwise:
-* [Ajax](pdf/ajax.pdf): AJAX = Asynchronous JavaScript And XML.
 
 ### Amazon Web Services (AWS) :cloud_with_lightning_and_rain:
 * [AWS: The Basics](pdf/AWS-Basic-Cheat-Sheet.pdf)
@@ -144,9 +99,6 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 ### System Design :gear:
 * [System Design Blueprint](pdf/System_Design_Blueprint.pdf): System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems.
 
-### Cyber Security :lock:
-* [Cyber Security 101](pdf/cybersecurity-101.gif): Fundamentals of Cybersecurity Topics.
-* [What is DevSecOps?](pdf/devsecops.gif): DevSecOps emerged as a natural evolution of DevOps practices with a focus on integrating security into the software development and deployment process.
 
 
 ---
