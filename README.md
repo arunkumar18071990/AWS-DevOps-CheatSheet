@@ -37,7 +37,6 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 * [Ansible](pdf/ansible.pdf): Ansible is the simplest way to automate apps and IT infrastructure.
 
 ### Git :octocat:
-* [Git by Atlassian](pdf/atlassian-git-cheatsheet.pdf)
 * [Git by GitHub](pdf/git_by_github.pdf)
 * [Git by Git-Tower](pdf/git_by_git-tower.pdf)
 * [Git/GitHub - Pull Request](pdf/github.pdf)
