@@ -16,13 +16,14 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 1. [Nginx :whale:](#nginx-whale)
 2. [Docker :whale:](#docker-whale)
 3. [Ansible :hammer_and_wrench:](#ansible-hammer_and_wrench)
-4. [Python :snake:](#python-snake)
-5. [Jenkins :construction_worker:](#jenkins-construction_worker)
-6. [Continuous Integration and Continuous Delivery (CI/CD) :repeat:](#continuous-integration-and-continuous-delivery-cicd-repeat)
-7. [Kubernetes :ship:](#kubernetes-ship)
-8. [Linux :penguin:](#linux-penguin)
-9. [Amazon Web Services (AWS) :cloud_with_lightning_and_rain:](#amazon-web-services-aws-cloud_with_lightning_and_rain)
-10. [Infrastructure as Code (IaC) :building_construction:](#infrastructure-as-code-iac-building_construction)
+4. [Git :octocat:](#git-octocat)
+5. [Python :snake:](#python-snake)
+6. [Jenkins :construction_worker:](#jenkins-construction_worker)
+7. [Continuous Integration and Continuous Delivery (CI/CD) :repeat:](#continuous-integration-and-continuous-delivery-cicd-repeat)
+8. [Kubernetes :ship:](#kubernetes-ship)
+9. [Linux :penguin:](#linux-penguin)
+10. [Amazon Web Services (AWS) :cloud_with_lightning_and_rain:](#amazon-web-services-aws-cloud_with_lightning_and_rain)
+11. [Infrastructure as Code (IaC) :building_construction:](#infrastructure-as-code-iac-building_construction)
 ---
 
 ### Nginx :whale:
