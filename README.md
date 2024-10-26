@@ -49,35 +49,15 @@ Before diving into the cheat sheets, please keep these essential rules in mind:
 
 ### Kubernetes :ship:
 * [Kubernetes K8s Cheat-Sheet](pdf/Kubernetes-Cheat-Sheet.pdf)
-* [Kubectl](pdf/Kubernetes-Kubect-CLI-Cheat-Sheet.pdf): Kubectl is a command-line interface for running commands against Kubernetes clusters.
+* [Kubectl](pdf/Kubernetes-Kubectl-CLI-Cheat-Sheet.pdf): Kubectl is a command-line interface for running commands against Kubernetes clusters.
 
 ### Linux :penguin:
 * Bash: Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
   * [Linux Commands 1](pdf/linux-bash.pdf)
-  * [Linux Commands 2](pdf/linux-bash-terminal.pdf)
-  * [Linux Commands 3](pdf/linux_commands.pdf)
+  * [Linux Commands 2](pdf/linux_commands.pdf)
   * [Linux Network Tools](pdf/linux-networking-tool): A compilation of various Linux networking tools.
-* [Network-tools](pdf/linux-networing-tools.pdf): Network-tools cheat sheet includes ping, curl, wget, ssh, and more.
-* [Cron](pdf/cron.pdf): Cron is a time-based job scheduler in Unix-like computer operating systems.
-* [Rsync](pdf/rsync.pdf): Rsync is a fast and versatile file copying tool used for local and remote file transfers.
-* [cURL](pdf/curl.pdf)
-* [SSH](pdf/ssh.pdf)
-* [NC (Netcat)](pdf/netcat.pdf)
-* [Nmap](pdf/nmap.pdf): Nmap is a powerful network scanning tool.
-  * [Nmap Cheat Sheet](pdf/Nmap-Cheat-Sheet.pdf) by Comparitech.
-* [OpenSSL](pdf/openssl.pdf)
-* [Ethtool](pdf/ethtool.pdf)
-* [ngrep](pdf/ngrep.pdf)
-* [grep](pdf/grep.pdf)
-* [xargs](pdf/xargs.pdf)
-* [find](pdf/find.pdf)
-* [awk](pdf/awk.pdf)
-* [sed](pdf/sed.pdf)
-* [tar](pdf/tar.pdf)
-* [ps](pdf/ps.pdf)
-* [top](pdf/top.pdf)
-* [Wireshark](pdf/wireshark.pdf): Wireshark is a free and open-source packet analyzer.
-* [Linux File Systems](pdf/LinuxFileSystems.gif): The Linux file system used to resemble an unorganized town where individuals constructed their houses wherever they pleased.
+  * [Linux File Systems](pdf/LinuxFileSystems.gif): The Linux file system used to resemble an unorganized town where individuals 
+     constructed their houses wherever they pleased.
 
 
 ### Amazon Web Services (AWS) :cloud_with_lightning_and_rain:
